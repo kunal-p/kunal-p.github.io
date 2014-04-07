@@ -80,7 +80,7 @@
 				<div class="row">
 					<div class="col-md-12">
 						<div class="color-light">
-						<h2 class="wow bounceInDown" data-wow-delay=".5s">"There may be people who have more talent than you, but there's no excuse for anyone to work harder than you do - and I believe that."</h2>
+						<h2 class="wow bounceInDown" data-wow-delay=".5s">"There may be people who have more talent than you, but there's no excuse for anyone to <em><font color = #529abb>work harder</font></em> than you do - and I believe that."</h2>
 						<p class="lead wow bounceInUp" data-wow-delay=".5s">-Derek Jeter</p>	
 						</div>
 					</div>				
