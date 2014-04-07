@@ -158,6 +158,9 @@ Home sections
 	color: #FFF;
 }
 
+.color-dark h1,.color-dark h2,.color-dark h3 {
+	color: #000;
+}
 
 .color-light p {
 	color: #eee;
