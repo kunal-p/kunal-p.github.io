@@ -66,7 +66,7 @@
                 <div class="col-md-offset-4 col-md-4" data-wow-delay="0.5s">
 					<div class="box-team wow bounceInDown">
                     <img src="img/team/me.jpg" alt="" class="img-responsive" />
-                    <h4>Kunal Patel</h4>
+                    <h4><font color = #529abb>Kunal Patel</font></h4>
 		    <p>UVa Class of 2015, Computer Science, Charlottesville/Ashburn VA</p> 
 					</div>
                 </div>
