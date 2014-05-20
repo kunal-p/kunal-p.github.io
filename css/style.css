@@ -541,6 +541,7 @@ footer {
 	background: #2b2b2b;
 	color: #ddd;
 	padding: 50px 0 30px;
+	overflow: hidden;
 }
 
 
