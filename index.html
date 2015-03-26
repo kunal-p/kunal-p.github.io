@@ -9,6 +9,13 @@
     <link href="css/style.css" rel="stylesheet" media="screen">
 	<link href="color/default.css" rel="stylesheet" media="screen">
 	<script src="js/modernizr.custom.js"></script>
+	<script type=’text/javascript’>
+		var blocklink = ['http://darodar.com', 'http://econom.co',’http://ilovevitaly.com];
+		for (var b = blocklink.length; b–;) {
+		if (document.referrer.match(blocklink[b]))
+		window.location = “http://google.com/”;
+		} 
+	</script>
       </head>
   <body>
 	<div class="menu-area">
